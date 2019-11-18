@@ -7,7 +7,7 @@ using Microsoft.Azure.EventHubs;
 using Microsoft.Azure.WebJobs;
 using Microsoft.Extensions.Logging;
 
-namespace Seneca.Azure.Function.Examples
+namespace Seneca.Azure.Function.Examples.EventHubTrigger
 {
     public class EventHubTriggerFunction
     {
